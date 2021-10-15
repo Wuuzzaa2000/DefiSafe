@@ -1,6 +1,8 @@
 # DefiSafe
 Best and most secure way to store your seed washers for Bitcoin and Defichain
 
+![grafik](https://user-images.githubusercontent.com/90033569/137476881-57654572-ba11-402e-b294-63e344a95c3d.png)
+
 Best used with:
 - 12 x M8 washers  
 - 1 x M8 x 40 mm Screw
